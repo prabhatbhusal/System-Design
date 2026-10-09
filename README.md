@@ -1,3 +1,3 @@
 # System-Design
-About System design progress
+<p align='center'>About System design progress</p>
 ## Chapter 1
